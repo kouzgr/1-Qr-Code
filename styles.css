@@ -13,16 +13,18 @@
 
 body
 {
+  padding: 15px;
   background: var(--clr-LiGray);
-  height: 700px;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
   font-family: var(--ff-main);
 }
 
-.box
+main
 {
+  padding: 15px;
   background: var(--clr-white);
   display: flex;
   gap: 25px;
@@ -30,7 +32,7 @@ body
   align-items: center;
   justify-content: center;
   width: 288px;
-  height: 480px;
+  height: 500px;
   border-radius: 10px;
 }
 
