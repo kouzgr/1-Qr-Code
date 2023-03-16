@@ -34,8 +34,6 @@ Keep imporing my flex box.
 ## Author
 
 - Website - [KOUZ](https://www.your-site.com)
-- Frontend Mentor - [@KOUZ](https://www.frontendmentor.io/profile/yourusername)
-
 
 ## Acknowledgments
 
